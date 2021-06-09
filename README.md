@@ -30,3 +30,9 @@ Coding Test Result Snapshot
 Table View:
 
 ![CodingTestTableview](https://user-images.githubusercontent.com/47113916/121391123-a7de9d00-c96b-11eb-83c0-a76609016aed.png)
+
+After Clicking Add button
+
+![AfterClickingAdd](https://user-images.githubusercontent.com/47113916/121391428-fbe98180-c96b-11eb-8330-9244accb4f7a.png)
+
+
