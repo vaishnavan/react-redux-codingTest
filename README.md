@@ -35,4 +35,10 @@ After Clicking Add button
 
 ![AfterClickingAdd](https://user-images.githubusercontent.com/47113916/121391428-fbe98180-c96b-11eb-8330-9244accb4f7a.png)
 
+After Clicking Update button
+
+![afterclickupdate](https://user-images.githubusercontent.com/47113916/121391797-64386300-c96c-11eb-98bf-b9b169061281.png)
+
+
+
 
