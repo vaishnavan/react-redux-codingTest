@@ -24,3 +24,9 @@ Adding some of my project links you can check out that also:
 8. https://agedayscalculator.netlify.app/ - Age and Days calculator build using React.
 9. https://galleryproject5.netlify.app/ - Gallery sorting project build using React.
 10. https://sortingtable.netlify.app/ - table sorting build using React.
+
+Coding Test Result Snapshot
+
+Table View:
+
+![CodingTestTableview](https://user-images.githubusercontent.com/47113916/121391123-a7de9d00-c96b-11eb-83c0-a76609016aed.png)
