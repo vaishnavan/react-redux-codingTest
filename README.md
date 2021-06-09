@@ -12,7 +12,7 @@ And add sorting functionality in the table.
 
 And it will responsible to mobile, Tablet screen using CSS media quries.
 
-Adding my some full stack project links you can check out that also:
+Adding some of my project links you can check out that also:
 
 1. https://webshinelearning.web.app/ - learning paltform and turtoring application build using MERN
 2. https://vaishnavanmresume.web.app/ - My own portfolio build using React
