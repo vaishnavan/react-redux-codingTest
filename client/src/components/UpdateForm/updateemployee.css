@@ -1,0 +1,58 @@
+.update_employee_flex{
+    display: flex;
+}
+.update_employee_main{
+    margin: 0 80px;
+}
+
+.update_employee_input {
+    margin: 0 20px;
+}
+.update_employee_delete{
+    text-align: center;
+    margin: 20px 0;
+}
+
+.update_employee_input input{
+    padding: 10px;
+    border: none;
+    border-bottom:1px solid black;
+    outline: none;
+    font-size: 16px;
+}
+
+.update_employee_input button{
+    padding: 10px;
+    width: 150px;
+    background-color: gray;
+    border: none;
+    border-radius: 3px;
+    color: white;
+    cursor: pointer;
+}
+.update_employee_delete button{
+    width: 150px;
+    padding: 5px;
+    background-color: gray;
+    border: none;
+    border-radius: 3px;
+    color: white;
+    cursor: pointer;
+}
+
+
+@media (max-width:768px) {
+    .update_employee_flex{
+        flex-direction: column;
+    }
+    .update_employee_input .btn{
+        margin: 20px 0;
+    }
+    .update_employee_main{
+        margin: 0 auto;
+    }
+    .update_employee_input{
+        margin: 0;
+    }
+    
+}

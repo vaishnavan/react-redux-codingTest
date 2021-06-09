@@ -1,0 +1,42 @@
+.addemployee_flex{
+    display: flex;
+    margin: 0 80px;
+}
+.addemployee_input{
+    margin: 0 20px;
+}
+.addemployee_input input{
+    padding: 10px;
+    border: none;
+    border-bottom:1px solid black;
+    outline: none;
+    font-size: 16px;
+}
+.addemployee_input button{
+    padding: 10px;
+    width: 150px;
+    background-color: gray;
+    border: none;
+    border-radius: 3px;
+    color: white;
+    cursor: pointer;
+}
+
+@media (max-width:768px) {
+    .addemployee_main{
+        margin: 0 auto;
+        text-align: center;
+    }
+    .addemployee_flex{
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .addemployee_input{
+        margin: 0;
+    }
+    .addemployee_input button{
+        padding: 10px;
+        width: 80px;
+        margin: 20px 0;
+    }
+}

@@ -1,0 +1,76 @@
+.employee_table_main{
+    display: flex;
+    padding: 10px;
+    align-items: center;
+    text-align: center;
+}
+.action_buttons button{
+    display: block;
+    width: 150px;
+    padding: 10px;
+    margin: 20px 0;
+    background-color: gray;
+    border: none;
+    border-radius: 3px;
+    color: white;
+    cursor: pointer;
+}
+.employee_table_flow{
+    margin: 0 300px;
+}
+.employee_table_display table thead,tbody,tr,th,td{
+    border: 1px solid rgb(207, 205, 205);
+}
+.employee_table_display table th{
+    background-color: gray;
+}
+.employee_table_display table tr:nth-child(even){
+    background-color: rgba(238, 238, 238, 0.889);
+}
+
+.employee_table_display{
+    margin: 40px 80px;
+    overflow: auto;
+}
+
+.employee_table_display table,th,td{
+    width: 800px;
+    padding: 5px;
+}
+
+@media (max-width:1200px) {
+    .employee_table_flow{
+        margin: 0;
+    }
+}
+@media (max-width:992px) {
+    .employee_table_flow{
+        margin: 0 100px;
+    }
+}
+
+@media (max-width:768px) {
+    .employee_table_main{
+        flex-direction: column;
+        align-items: center;
+        margin: 0 auto;
+        text-align: center;
+    }
+    .employee_table_display{
+        margin: 0;
+    }
+    .employee_table_display{
+        overflow-x: auto;
+    }
+    .employee_table_display table,th,td{
+        width: 400px;
+        padding: 5px;
+    }
+}
+
+@media (max-width:600px) {
+    .employee_table_display table,th,td{
+        width: 380px;
+        padding: 5px;
+    }
+}

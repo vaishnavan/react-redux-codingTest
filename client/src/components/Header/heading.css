@@ -1,0 +1,8 @@
+.main_heading{
+    text-align: center;
+    background-color: rgb(201, 194, 194);
+    width: 300px;
+    margin: 0 auto;
+    border-radius: 5px;
+    color: white;
+}
