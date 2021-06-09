@@ -39,6 +39,10 @@ After Clicking Update button
 
 ![afterclickupdate](https://user-images.githubusercontent.com/47113916/121391797-64386300-c96c-11eb-98bf-b9b169061281.png)
 
+After Clicking Checkbox
+
+![afterclickcheckbox](https://user-images.githubusercontent.com/47113916/121392181-c7c29080-c96c-11eb-967f-1f2846e485e8.png)
+
 
 
 
